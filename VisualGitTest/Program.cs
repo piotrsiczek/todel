@@ -12,6 +12,7 @@ namespace VisualGitTest
         {
             Console.WriteLine("test");
             //stuff comment
+            //another comment
         }
     }
 }
