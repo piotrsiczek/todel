@@ -11,6 +11,7 @@ namespace VisualGitTest
         static void Main(string[] args)
         {
             Console.WriteLine("test");
+            //stuff comment
         }
     }
 }
